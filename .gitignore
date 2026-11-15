@@ -1,0 +1,9 @@
+# File lokal, jangan ikut ke GitHub
+.env
+.env.*
+!.env.example 
+*.log 
+.DS_Store 
+Thumbs.db 
+vendor/ 
+config.php
